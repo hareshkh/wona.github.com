@@ -114,3 +114,5 @@ function onYouTubeIframeAPIReady() {
   });
 }
 
+window.location = "http://watchout.iitr.ac.in" + window.location.pathname;
+
